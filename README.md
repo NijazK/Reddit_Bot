@@ -1,3 +1,7 @@
+
+![Reddit-Logo](https://user-images.githubusercontent.com/75659218/193344558-ac1a0d3d-b5e2-4d7d-ba9a-63dfd16c2054.png)
+
+
 # Reddit_Bot_Without_API
 * Using BeautifulSoup4, we can scrape reddit to get valuable information from separate subreddit.
 
