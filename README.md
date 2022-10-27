@@ -15,3 +15,6 @@
 
 ## Reddit Database
 * Using SQLite, we can store useful information such as subreddit name, author, post title, and post date.
+
+# MVC Control FLow 
+![image](https://user-images.githubusercontent.com/75659218/198400922-e21b2d43-d409-4c17-93e6-3df2bc2ff3a1.png)
