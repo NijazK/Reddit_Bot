@@ -5,7 +5,7 @@
 # Reddit Bot
 * Using BeautifulSoup4, we can scrape reddit to get valuable information from separate subreddit.
 * Utilized MVC Framework to provide a clear distinction between UI logic, input logic, and business logic.
-* Django allows us to leverage URL-mapping component to fetch data and retrive it for the user.
+* Python design patterns allows us to leverage URL-mapping component to fetch data and retrive it for the user.
 
 ## Display Reddit.py
 * This python file displays the database informatio from the scraped reddit file in a friendly user-experience
