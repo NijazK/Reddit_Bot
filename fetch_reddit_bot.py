@@ -52,3 +52,16 @@ def scraper():
         elif select == 5:
             tag = 'top'
             tag_url = '/top/'
+            
+        url =
+        
+        req
+        
+        if req.status_code == 200:
+            soup
+            print
+            
+            attributes = 
+            counter = 1
+            full = 0
+            reddit_info = []
