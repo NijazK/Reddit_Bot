@@ -13,7 +13,7 @@ def sql_connection():
 def sql_fetcher(contact):
 
     # SQL search query for rows and columns of the subreddit
-    subreddit = input("\nEnter subreddit to search: r/")
+    subreddit = input("\nEnter the subreddit to scrape: r/")
     count = 0
     cur = contact.cursor()
     cur.execute('SELECT * FROM posts') 
@@ -27,9 +27,9 @@ def sql_fetcher(contact):
                   f'\nURL: {r[7]}\n')
 
     if count:
-        print(f'{count} posts fetched from database\n')
+        print(f'{count} posts from this SubReddit\n')
     else:
-        print('\nNo posts stored for this subreddit\n')
+        print('\nInvalid SubReddit\n')
 
 
 
